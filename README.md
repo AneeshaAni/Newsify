@@ -25,7 +25,7 @@ Follow these steps to set up the project on your local machine.
 
 ### Installation
 
-1. **Clone the Repository**
+Clone the Repository
 
   1.Open Terminal on your Mac.
   
@@ -35,7 +35,6 @@ Follow these steps to set up the project on your local machine.
   3.Run the correct clone command:
    git clone https://github.com/AneeshaAni/Newsify.git
    OR (if using SSH and you've set up SSH keys with GitHub):
-  
    git clone git@github.com:AneeshaAni/Newsify.git
 
 
