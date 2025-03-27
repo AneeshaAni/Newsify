@@ -32,7 +32,9 @@ Clone the Repository
   2.Navigate to the folder where you want to clone the project:
   
     cd ~/Documents  # Or any preferred directory
+    
   3.Run the correct clone command:
+  
    git clone https://github.com/AneeshaAni/Newsify.git
    OR (if using SSH and you've set up SSH keys with GitHub):
    git clone git@github.com:AneeshaAni/Newsify.git
