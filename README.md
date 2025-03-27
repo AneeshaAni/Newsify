@@ -1,4 +1,4 @@
-<img width="336" alt="Screenshot 2025-03-27 at 3 23 51 PM" src="https://github.com/user-attachments/assets/ee84cdc4-2e5e-4120-af3e-c693ea63a1dc" /># Newsify
+# Newsify
 
 A SwiftUI-based news application that allows users to browse the latest news articles, read full articles in an in-app WebView, and save articles for offline reading using Core Data.
 
@@ -36,6 +36,7 @@ Follow these steps to set up the project on your local machine.
 
 ###Screenshots
 <img width="336" alt="Screenshot 2025-03-27 at 3 23 43 PM" src="https://github.com/user-attachments/assets/866d4759-03f2-46d2-8759-7cda87127c91" />
+<img width="336" alt="Screenshot 2025-03-27 at 3 23 51 PM" src="https://github.com/user-attachments/assets/ee84cdc4-2e5e-4120-af3e-c693ea63a1dc" />
 <img width="336" alt="Screenshot 2025-03-27 at 3 23 59 PM" src="https://github.com/user-attachments/assets/6c330042-196c-4f68-82f4-ce247351d73d" />
 <img width="336" alt="Screenshot 2025-03-27 at 3 23 51 PM" src="https://github.com/user-attachments/assets/72338c32-4921-4e55-a3f2-ec4a185e8964" />
 <img width="336" alt="Screenshot 2025-03-27 at 3 24 06 PM" src="https://github.com/user-attachments/assets/48234ec9-36a5-41d5-9845-be84a758f945" />
